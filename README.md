@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FanBB2333&show_icons=true&theme=algolia)
+![Anurag's GitHub stats](https://github-readme-stats-git-master-fanbb2333s-projects.vercel.app/api?username=FanBB2333&count_private=true&show_icons=true&theme=algolia)
+
 - 🔭 I’m currently working on nowhere. ┓( ´∀` )┏
 - 🌱 I’m currently learning photography.
 - 👯 I’m looking to collaborate on anything interesting.
@@ -24,6 +25,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Wow, I am always there, by your side.
 - ⚡ Fun fact: Maybe about the top used languages below? Haha!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FanBB2333&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-master-fanbb2333s-projects.vercel.app/api/top-langs/?username=FanBB2333&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://raw.githubusercontent.com/FanBB2333/FanBB2333/output/github-contribution-grid-snake.svg)
+<!-- ![](https://raw.githubusercontent.com/FanBB2333/FanBB2333/output/github-contribution-grid-snake.svg) -->
