@@ -15,8 +15,14 @@
 <!-- ![](https://raw.githubusercontent.com/FanBB2333/FanBB2333/output/github-contribution-grid-snake.svg) -->
 
 ## Journey so far
-- [nvidb](https://github.com/FanBB2333/nvidb) ![Stars](https://img.shields.io/github/stars/FanBB2333/nvidb?label=%F0%9F%8C%9F): A package that provides an aggregated view of the NVIDIA GPU information on several hosts.
-- [XTX - arXivTeXplorer](https://github.com/FanBB2333/arXivTeXplorer) ![Stars](https://img.shields.io/github/stars/FanBB2333/arXivTeXplorer?label=%F0%9F%8C%9F): A Chrome extension to view arXiv paper TeX source in a VS Code-like interface.
-- [FakeGPU](https://github.com/FanBB2333/FakeGPU) ![Stars](https://img.shields.io/github/stars/FanBB2333/FakeGPU?label=%F0%9F%8C%9F): A CUDA API interception library that simulates GPU devices in even non-GPU environments.
-- [ccs-panel](https://github.com/FanBB2333/ccs-panel) ![Stars](https://img.shields.io/github/stars/FanBB2333/ccs-panel?label=%F0%9F%8C%9F): A local panel to manage claude code provider(using cc-switch) on remote SSH servers.
-- [MTM](https://github.com/FanBB2333/MTM) ![Stars](https://img.shields.io/github/stars/FanBB2333/MTM?label=%F0%9F%8C%9F): A Mifare Tool on MacOS(a simple PN532 NFC Tool)
+
+| Project | Stars | Description |
+| :--- | :---: | :--- |
+| [nvidb](https://github.com/FanBB2333/nvidb) | ![Stars](https://img.shields.io/github/stars/FanBB2333/nvidb?label=%F0%9F%8C%9F) | A package that provides an aggregated view of the NVIDIA GPU information on several hosts. |
+| [XTX - arXivTeXplorer](https://github.com/FanBB2333/arXivTeXplorer) | ![Stars](https://img.shields.io/github/stars/FanBB2333/arXivTeXplorer?label=%F0%9F%8C%9F) | A Chrome extension to view arXiv paper TeX source in a VS Code-like interface. |
+| [FakeGPU](https://github.com/FanBB2333/FakeGPU) | ![Stars](https://img.shields.io/github/stars/FanBB2333/FakeGPU?label=%F0%9F%8C%9F) | A CUDA API interception library that simulates GPU devices in even non-GPU environments. |
+| [ccs-panel](https://github.com/FanBB2333/ccs-panel) | ![Stars](https://img.shields.io/github/stars/FanBB2333/ccs-panel?label=%F0%9F%8C%9F) | A local panel to manage claude code provider(using cc-switch) on remote SSH servers. |
+| [MTM](https://github.com/FanBB2333/MTM) | ![Stars](https://img.shields.io/github/stars/FanBB2333/MTM?label=%F0%9F%8C%9F) | A Mifare Tool on MacOS(a simple PN532 NFC Tool) |
+| [metop](https://github.com/FanBB2333/metop) | ![Stars](https://img.shields.io/github/stars/FanBB2333/metop?label=%F0%9F%8C%9F) | A Python-based GPU/ANE monitoring tool for Apple Silicon Macs. Like nvtop or nvidia-smi, but for Metal and the Neural Engine. |
+| [walioss](https://github.com/FanBB2333/walioss) | ![Stars](https://img.shields.io/github/stars/FanBB2333/walioss?label=%F0%9F%8C%9F) | An open source **ali**yun **oss** GUI browser built with go + **wail**s|
+| [[WIP] iPhotos-extractor](https://github.com/FanBB2333/iPhotos-extractor) | ![Stars](https://img.shields.io/github/stars/FanBB2333/iPhotos-extractor?label=%F0%9F%8C%9F) | Open source macOS photo extractor |
